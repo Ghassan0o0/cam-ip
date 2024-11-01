@@ -12,8 +12,8 @@
 ---------------------------------------------
 How to use:
 install the tool:
-git clone
-cd 
+git clone https://github.com/Ghassan0o0/cam-ip.git
+cd cam-ip
 chmod +x *
 sudo bash requirements.txt
 
